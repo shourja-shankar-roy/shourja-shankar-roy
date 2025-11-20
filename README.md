@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Shourja Shankar Roy
 
-<!--
-**shourja-shankar-roy/shourja-shankar-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Enthusiast | Aspiring Pentester  
+Focused on building strong fundamentals in Linux, Networking, and Offensive Security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm Currently Doing
+- 🌱 Learning: Ethical Hacking, Python for Security, Web Exploitation  
+- 🧪 Training Daily on: TryHackMe & HackTheBox  
+- 📝 Documenting my progress through writeups and small security scripts
+
+---
+
+## 🧰 Skills & Tools
+- **Languages:** coming soon... 
+- **Networking:** coming soon... 
+- **Security Tools:** coming soon... 
+- **Operating Systems:** coming soon... 
+- **Other:** coming soon...  
+
+---
+
+## 🎯 Current Goals
+- Build a strong cybersecurity portfolio  
+- Create automation/security tools using Python  
+- Publish writeups for THM/HTB rooms  
+- Prepare for internships in cybersecurity
+
+---
+
+## 📬 Connect With Me
+- **TryHackMe:** https://tryhackme.com/p/shoushanoy2022  
+- **Email:** shoushanoy2022@gmail.com 
+
+---
+
+### 🚀 *I’m learning consistently and building my path toward becoming a professional in cybersecurity.*
